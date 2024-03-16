@@ -1,0 +1,126 @@
+.bloque5{
+    width: 1440px;
+    height: 400px;
+    padding: 80px;
+    gap: 80px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.line-bq5{
+    width: 58px;
+    border: 3px solid rgba(164, 7, 77, 1);
+    margin: 18px 5px;
+}
+
+.titulo-bq5{
+    width: 344px;
+    height: 88px;
+    gap: 16px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.testimonials{
+    width: 222px;
+    height: 29px;
+    gap: 24px;
+
+    opacity: 70%;
+    font-size: 24px;
+    font-weight: 400;
+
+    display: flex;
+    align-items: center;
+}
+
+.student-bq5{
+    width: 344px;
+    height: 43px;
+
+    font-size: 36px;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cuadro-students{
+    width:1280px;
+    height: 259px;
+    gap: 32px;
+    
+
+    display: flex;
+    
+}
+
+.estudiantes-bq5{
+    width: 405.33px;
+    height: 259px;
+    padding: 32px ;
+
+    gap: 16px;
+
+}
+
+.img-bq5{
+    width: 341.33px;
+    height: 91px;
+    gap: 8px;
+
+    display: flex;
+
+}
+
+.name1{
+    width: 234.33px;
+    height: 24px;
+    opacity: 70%;
+    gap: 0px 10px;
+
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.name2{
+    width: 234.33px;
+    height: 19px;
+    opacity: 70%;
+    margin-top: 5px;
+
+
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.star-bq5{
+    width: 61px;
+    height: 24px;
+    gap: 4px;
+    padding: 15px 0px;
+    opacity: 70%;
+
+    display: flex;
+    justify-content: start;
+
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.parrafo-bq5{
+    width: 341.33px;
+    height: 88px;
+    opacity: 70%;
+
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 0px;
+}

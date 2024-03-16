@@ -1,0 +1,90 @@
+.bloque2{
+    width: 1440px;
+    height: 589px;
+    padding: 80px;
+    gap: 80px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.titulo-bq2{
+    width: 439px;
+    height: 88px;
+    gap: 16px;
+
+    object-fit: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.line{
+    width: 58px;
+    border: 3px solid rgba(164, 7, 77, 1);
+    margin: 18px 30px;
+}
+
+.linea{
+    opacity: 70%;
+    font-size: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linea2{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.cuadro-bq2{
+    width: 1280px;
+    height: 361px;
+    gap: 32px;
+
+    display: flex;
+
+}
+
+.ico-info{
+    width: 296px;
+    height: 361px;
+    padding: 24px;
+    gap: 24px;
+
+}
+
+.ico-info h1{
+    width: 248px;
+    height: 29px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.ico-info p{
+    width: 248px;
+    height: 108px;
+    opacity: 70%;
+
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.ico-info h2 {
+    width: 144px;
+    height: 24px;
+    opacity: 60%;
+
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
